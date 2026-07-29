@@ -16,7 +16,7 @@ El proyecto analiza el comportamiento de los clientes de una empresa de telecomu
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Taniacrz93/telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb](https://colab.research.google.com/drive/1a5qNyMsHI9wxuigOs5A_j2WA07VQJsdZ?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Taniacrz93/telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
 
 O:
 
